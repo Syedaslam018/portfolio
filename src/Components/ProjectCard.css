@@ -1,0 +1,32 @@
+.project-card {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 20px;
+    margin-bottom: 20px;
+    align-items: center;
+  }
+  
+  .project-card img {
+    width: 5%;
+    object-fit: cover;
+    border-radius: 4px;
+  }
+  
+  .project-card h3 {
+    margin-top: 10px;
+  }
+  
+  .project-card p {
+    margin-top: 10px;
+  }
+  
+  .project-card a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 16px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+  }
+  

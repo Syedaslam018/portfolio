@@ -1,0 +1,17 @@
+#container section {
+  width: min-content;
+  margin: 20px 0px;
+  cursor: pointer;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+#container {
+  display: flex;
+}
+
+#container section:hover {
+  background-color: #f0f0f0;
+}
