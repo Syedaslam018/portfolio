@@ -48,10 +48,10 @@ function App() {
           </ul>
         </nav>
         <div id="homepageImg">
-          <img
-            src="https://st2.depositphotos.com/28956650/44588/v/450/depositphotos_445889338-stock-illustration-programmer-software-developer-icon-vector.jpg"
+          {/* <img
+            src="https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png"
             alt="coding"
-          ></img>
+          ></img> */}
         </div>
         <AnimatedSection
           in={activeSection === "home"}

@@ -5,13 +5,14 @@ function Projects() {
   const projects = [
     {
       title: "Group Chat App",
-      description: "Description of Project 1",
+      description: `Developed a comprehensive group chat application featuring robust user authentication, secure and personalized communication.`,
       imageUrl: "https://cdn-icons-png.flaticon.com/512/6387/6387947.png",
       projectUrl: "https://example.com/project1",
     },
     {
       title: "Expense Tracker",
-      description: "Description of Project 2",
+      description: `Developed a dynamic web application for expense tracking and
+      reporting, enabling users to manage their financial data effectively`,
       imageUrl: "https://cdn-icons-png.flaticon.com/512/2694/2694089.png",
       projectUrl: "https://example.com/project2",
     },

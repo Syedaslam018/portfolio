@@ -1,7 +1,6 @@
 .project-card {
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    padding: 20px;
+    padding: 5px;
+    display: flex;
     margin-bottom: 20px;
     align-items: center;
   }
@@ -13,16 +12,16 @@
   }
   
   .project-card h3 {
-    margin-top: 10px;
+    margin: 10px 10px;
   }
   
   .project-card p {
-    margin-top: 10px;
+    margin: 10px 10px;
   }
   
   .project-card a {
     display: inline-block;
-    margin-top: 10px;
+    margin: 10px 10px;
     padding: 8px 16px;
     background-color: #333;
     color: #fff;

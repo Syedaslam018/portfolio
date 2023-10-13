@@ -1,4 +1,5 @@
 #container section {
+  position: absolute;
   width: min-content;
   margin: 20px 0px;
   cursor: pointer;
